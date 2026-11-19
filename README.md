@@ -48,7 +48,7 @@ You need a Mac with Xcode to build and install the iOS version.
 
 ## 🛠️ Source Code
 
-The source code is available in this repository.
+The source code is for Xcode and is the app of ios is available in this repository.
 
 Clone the repository:
 
